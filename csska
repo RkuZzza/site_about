@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+}
+header {
+   color: black;
+   background-color: lightblue;
+   border: medium solid lightblue; 
+   border-radius: 10px;
+}
+
+header a{
+   color: blue;
+   
+}
+
+h1 {
+   color: blue;
+   background-color: lightblue;
+   text-align: center;
+   border: 2px solid lightblue; 
+   border-radius: 5px; 
+}
+
+footer{
+    background-color: pink;
+    border: 2px solid pink; 
+   border-radius: 5px; 
+}
+
+footer p{
+    background-color: white;
+    border: 2px solid white; 
+    border-radius: 5px; 
+    margin-left: 40px
+  
+}
+nav {
+background-color:  white;
+margin: 20px;
+}
+
+nav a {
+   background-color: blue;
+   color: white;
+   border-radius: 5px;
+   margin: 30px;
+}
+
+.lenka {
+background-color: white;
+color: blue;
+border:2px solid blue;
+
+
+
+}
+.pypka {
+background-color: lightgreen;
+}
+
+
+
+
+
+
+
+
